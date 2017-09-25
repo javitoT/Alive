@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "859211453583",
+    "firebase_url": "https://alive-5e7c4.firebaseio.com",
+    "project_id": "alive-5e7c4",
+    "storage_bucket": "alive-5e7c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859211453583:android:98790d152910b1ce",
+        "android_client_info": {
+          "package_name": "com.example.dell.alive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859211453583-iapgj8jokfa8md57hjboqd0ppirc0b0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRRGasXmSpr65mRItZ0cs-L20u1urJdwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
